@@ -1,0 +1,13 @@
+I 3 A
+I 9 B
+I 8 C
+I 2 D
+I 5 E
+I 10 F
+I 7 G
+I 1 H
+I 4 I
+I 6 J
+T
+S 6
+S 2
